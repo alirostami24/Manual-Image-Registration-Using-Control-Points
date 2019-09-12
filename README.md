@@ -7,5 +7,9 @@ A source code in C++ and Qt IDE for manual registration of two images, named ref
 - Visual Studio 2012 redistributable for Windows 7 x86.
 - Qt 5.9
 
+## Acknowledgement
+
+I thanks Mrs Zahra Khojasteh and Miss Fatemeh Moein for their help in testing and finalizing the code.
+
 ## An Easy Way for your Feedback
 I gratefully accept any bug report or suggestion for improving the performance and making the code more reusable. Please feel free to contact me via m.jalalat@gmail.com E-mail.
