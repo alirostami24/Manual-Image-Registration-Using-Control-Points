@@ -7,7 +7,7 @@ A source code in C++ and Qt IDE for manual registration of two images, named ref
 
 ## Pre-Built Binaries
 
-A pre-built binary of the code is available [here]() for those unwilling to compile the code from scratch.
+A pre-built binary of the code is available [here](https://github.com/mortezajalalat/Manual-Image-Registration-Using-Control-Points/blob/master/Pre-Built%20Binaries.zip) for those unwilling to compile the code from scratch.
 
 Before running the .exe file, you can see an screen capture of the UI provided in the "Pre-Built Binaries.zip"
 
@@ -18,7 +18,7 @@ Before running the .exe file, you can see an screen capture of the UI provided i
 
 ## User Manual
 
-In order to get more details about the usage of the application please refer to the [User Manual]() and the comments put inside the source code.
+In order to get more details about the usage of the application please refer to the [User Manual](https://github.com/mortezajalalat/Manual-Image-Registration-Using-Control-Points/blob/master/User%20Manual.pdf) and the comments put inside the source code.
 
 ## Acknowledgement
 
